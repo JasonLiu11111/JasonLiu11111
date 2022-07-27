@@ -1,4 +1,4 @@
-<p align="center">
+<p>
    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7F7F7&lines=Hi%2C+this+is+Yihao+Liu;Welcome+to+my+Github+Profile" alt="typing-svg">
 </p>
 
