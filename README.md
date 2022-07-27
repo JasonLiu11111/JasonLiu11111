@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 I’m currently working on OneFLow Project
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Operating System
 - 🤔 I’m looking for job in Software Engineering
 - 📫 How to reach me: y3liu@ucsd.edu
 - 😄 Pronouns: He/ him/ his
